@@ -36,6 +36,8 @@ double mydiv(dTYPE x, dTYPE y) throw(myerr<dTYPE>) {
 }
 
 int main() {
+  //İlk github değişikliğimiz... :)
+  // init variables
   MYTYPE x = 0;
   MYTYPE y = 0;
 
